@@ -149,7 +149,7 @@ AM(**A**)A [ask me <i>almost</i> anything]
 
 # Fin
 ## The End
-* View this slide deck [pitchme.com/seanpatrickcatlin/react-in-existing-applications](
-https://pitchme.com/seanpatrickcatlin/react-in-existing-apps) 
+* View this slide deck [gitpitch.com/seanpatrickcatlin/react-in-existing-applications](
+https://gitpitch.com/seanpatrickcatlin/react-in-existing-apps) 
 * View the source [github.com/seanpatrickcatlin/react-in-existing-applications](https://github.com/seanpatrickcatlin/react-in-existing-apps)
 * FDR
